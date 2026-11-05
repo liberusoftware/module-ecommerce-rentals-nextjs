@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-rentals-nextjs",
+  "capabilityKey": "planned:ecommerce:rentals",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-rentals-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/rentals.md",
+  "presentationPlan": "projects/ecommerce/nextjs/rentals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
